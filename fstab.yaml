@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/markhulshult/aco-sandbox-2/
+    type: markup
+
+folders:
+  /products/: /products/default
